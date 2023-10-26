@@ -1,11 +1,12 @@
-# Studi-kasus-poliknik
+# Studi-kasus-poliknik #
+---------------------------
+user : clara
+pass : 123 
 
 Super-admin
 user : admin
 pass : bug@123
-----------------
-user : clara
-pass : 123 http://awsus.lailagustinet.my.id/Poklinik/V2/index.php
+http://awsus.lailagustinet.my.id/Poklinik/V2/index.php
 
 Source Project Studi-kasus-poliknik
 
